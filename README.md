@@ -1,7 +1,5 @@
 # Voice Cloning Projects Repository
 
-## Repository Name Suggestion: `EchoVox`
-
 ## 🎙️ Welcome to EchoVox! 🎙️
 
 Embark on a journey through a repository dedicated to voice cloning technologies, exploring various projects from basic voice imitation to advanced voice synthesis applications. `EchoVox` is a comprehensive resource for developers, data scientists, and AI enthusiasts looking to explore, learn, and master voice cloning technologies in a practical, hands-on manner.
